@@ -19,6 +19,7 @@
     "lint:check": "oxfmt --check && oxlint",
     "dev": "quasar dev",
     "build": "quasar build",
+    "start": "quasar serve --history",
     "postinstall": "quasar prepare --silent"
   },
   "dependencies": {
